@@ -24,13 +24,13 @@ Links to slide decks and information about the lectures will appear below.
 ### Image Formation, Peter Corke
 ### Image Processing, Peter Corke
 ### Feature Extraction, Peter Corke
-### Deep Dive, Sue Keay
+### Deep Dive: From Lab to Launch: How (and Why) to Start an AI & Robotics Company in Australia, Sue Keay
 
 ---
 ## Tuesday
 
 ### Deep Learning, Simon Lucey
-### Visual SLAM, Tom Drummond
+### World Models, Tom Drummond
 ### Transformers, Simon Lucey
 ### Deep Dive: Planetary Rover Autonomous Navigation, Thierry Peynot
 
@@ -38,16 +38,16 @@ Links to slide decks and information about the lectures will appear below.
 ## Wednesday
 
 ### Policy Learning, Dana Kulic
-### Learning-Based SLAM, Tom Drummond
+### Foundation Models, Simon Lucey
 ### Imitation Learning, Dana Kulic
-### Deep Dive, Scarlett Raine
+### Deep Dive: Underwater Robotic Vision for Ecosystem Monitoring and Reef Restoration, Scarlett Raine
 
 ---
 ## Thursday
 
-### Representations, Tom Drummond
-### Foundation Models, Simon Lucey
+### Classical SLAM, Tom Drummond
 ### Multi-Task Learning, Dana Kulic
+### Learning-Based SLAM, Tom Drummond
 ### Deep Dive: Calibration and Pose, Richard Hartley
 
 ---
