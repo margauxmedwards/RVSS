@@ -20,6 +20,8 @@ Links to slide decks and information about the lectures will appear below.
 ---
 ## Sunday / Monday
 
+I have set pre-reading and pre-watching resources if you're keen.  Follow the links below.
+
 ### [Introduction to Robotic Vision](Robotic_Vision/README.md), Peter Corke
 ### [Image Formation](Robotic_Vision/README.md), Peter Corke
 ### [Image Processing](Robotic_Vision/README.md), Peter Corke
