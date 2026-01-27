@@ -1,4 +1,4 @@
-# Official Repository RVSS 2025
+# Official Repository RVSS 2026
 
 ![logo](Pics/RVSS-logo-col.med.jpg)
 
@@ -18,55 +18,36 @@ You can run the notebooks via Colab: http://colab.research.google.com/github/rvs
 Links to slide decks and information about the lectures will appear below.
 
 ---
-## Monday / Tuesday
+## Sunday / Monday
 
 ### Introduction to Robotic Vision, Peter Corke
-* Peter's content is all available via the readme [here](Robotic_Vision) (scroll down)
-
-### Cameras and Image Formation, Peter Corke
-
+### Image Formation, Peter Corke
 ### Image Processing, Peter Corke
-  
-### Deep Learning, Simon Lucey
-* [Slides](Visual_Learning/RVSS2025-Intro_DL-Lecture_1.pdf)
+### Feature Extraction, Peter Corke
+### Deep Dive: From Lab to Launch: How (and Why) to Start an AI & Robotics Company in Australia, Sue Keay
 
-### Neuromorphic Processing and Event Cameras, Yulia Sandamirskaya
+---
+## Tuesday
+
+### Deep Learning, Simon Lucey
+### World Models, Tom Drummond
+### Transformers, Simon Lucey
+### Deep Dive: Planetary Rover Autonomous Navigation, Thierry Peynot
 
 ---
 ## Wednesday
 
-### Visual SLAM, Tom Drummond
-
-### Transformers, Simon Lucey
-
-### Transformers Hands-On, Simon Lucey
-
-### Radiance Field Representations, Donald Dansereau
-
+### Policy Learning, Dana Kulic
+### Foundation Models, Simon Lucey
+### Imitation Learning, Dana Kulic
+### Deep Dive: Underwater Robotic Vision for Ecosystem Monitoring and Reef Restoration, Scarlett Raine
 
 ---
 ## Thursday
 
-### Foundation Models, Simon Lucey
-
-### Policy Learning, Dana Kulic
-
-### Bridging AI and Physical Interaction, Feras Dayoub	
-
-### 3D Representations Hands-On, Tom Drummond
-
-
-### Uncertainty in Deep Learning, Dimity Miller
+### Classical SLAM, Tom Drummond
+### Multi-Task Learning, Dana Kulic
+### Learning-Based SLAM, Tom Drummond
+### Deep Dive: Calibration and Pose, Richard Hartley
 
 ---
-## Friday
-
-### Imitation Learning with Diffusion Policies, VLAs & Co., Dana Kulic
-
-### Learning-Based SLAM, Tom Drummond
-
-### TBC, Richard Hartley
-
-### Robot Imitation Learning Hands-On, Dana Kulic
-
-
