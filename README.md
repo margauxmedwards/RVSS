@@ -20,10 +20,10 @@ Links to slide decks and information about the lectures will appear below.
 ---
 ## Sunday / Monday
 
-### Introduction to Robotic Vision, Peter Corke
-### Image Formation, Peter Corke
-### Image Processing, Peter Corke
-### Feature Extraction, Peter Corke
+### [Introduction to Robotic Vision](Robotic_Vision/README.md), Peter Corke
+### [Image Formation](Robotic_Vision/README.md), Peter Corke
+### [Image Processing](Robotic_Vision/README.md), Peter Corke
+### [Feature Extraction](Robotic_Vision/README.md), Peter Corke
 ### Deep Dive: From Lab to Launch: How (and Why) to Start an AI & Robotics Company in Australia, Sue Keay
 
 ---
