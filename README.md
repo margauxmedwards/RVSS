@@ -42,7 +42,7 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ### Policy Learning, Dana Kulic
 ### Foundation Models, Simon Lucey
 ### Imitation Learning, Dana Kulic
-### Deep Dive: Underwater Robotic Vision for Ecosystem Monitoring and Reef Restoration, Scarlett Raine
+### Deep Dive: [Underwater Robotic Vision for Ecosystem Monitoring and Reef Restoration](UnderwaterVision/ScarlettRaine-Slides-PDF.pdf), Scarlett Raine
 
 ---
 ## Thursday
