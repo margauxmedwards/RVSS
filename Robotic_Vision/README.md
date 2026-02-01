@@ -140,7 +140,7 @@ by Richard Gregory](https://www.amazon.com/dp/0192802852), this book takes a neu
 
 ## Lecture A1: Image Formation
 
-**8:30am Monday, 60 minutes**
+**8:30am Monday, 45 minutes**
 
 This lecture introduces the process of image formation, how the 3D world is projected into a 2D image. Topics include central projection model, homographies, camera
 calibration, and perspective rectification.
@@ -156,15 +156,16 @@ calibration, and perspective rectification.
 
 * Jupyter/Python Notebooks
 
+   * [`homogeneous-coords.ipynb`](homogeneous-coords.ipynb), refresher on homogeneous coordinates including an interactive animation<a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/homogeneous-coords.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   * [`camera_animation.ipynb`](camera_animation.ipynb), interactive animation of point projection for central projection model <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/camera_animation.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   * [`camera.ipynb`](camera.ipynb), introducing the Toolbox `CentralCamera` object <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/camera.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-   * [`homogeneous-coords.ipynb`](homogeneous-coords.ipynb), refresher on homogeneous coordinates including an interactive animation<a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/homogeneous-coords.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  * [`homography.ipynb`](homographies.ipynb),  extension: computing an homography <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/homography.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  * [`homography.ipynb`](homographies.ipynb), computing an homography <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/homography.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  * [`calibration2d.ipynb`](calibration2d.ipynb), calibrating a camera from a set of 2D images <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/calibration2d.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## Lecture A2 Image Processing
 
-**9:45am Monday, 60 minutes**
+**9:45am Monday, 45 minutes**
 
 This lecture introduces the fundamentals of image processing.  Topics include pixels and images, image arithmetic, and introduces window operations through the example of stereo vision. This lecture
 introduces the Python-based tools we will use in the "hands on" session later in the day.
@@ -181,13 +182,16 @@ introduces the Python-based tools we will use in the "hands on" session later in
 
 * Jupyter/Python Notebooks
 
-  * [`exploring-images.ipynb`](exploring-images.ipynb), explore the basics of images and pixels using the Toolbox <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/exploring-images.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  * [`greyscale-images.ipynb`](greyscale-images.ipynb), explore the basics of greyscale images and pixels using the Toolbox <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/greyscale-images.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  * [`color-images.ipynb`](color-images.ipynb), explore the basics of color images and pixels using the Toolbox <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/color-images.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   * [`image-processing.ipynb`](image-processing.ipynb), fundamentals of image processing as discussed in the lecture <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/image-processing.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 
 ## Lecture A3: Feature Extraction
 
 **10:45am Monday, 45 minutes**
+
+This lecture introduces the reduction of an image, comprising squillions of pixels, to more concise descriptors that are actionable by a robot.  We will discuss region features (blobs) and point features (Harris and SIFT).
 
 * <a href="https://www.dropbox.com/scl/fi/1yx1q4tln8ycpclduc3qc/A3-Feature-extraction.pdf?rlkey=wwo1l18nvea6yy139cd2ezcz1&dl=0" target="_blank">Lecture PDF file</a>
 
@@ -199,6 +203,6 @@ introduces the Python-based tools we will use in the "hands on" session later in
 
 * Jupyter/Python Notebooks
 
-  * [`image-features.ipynb`](image-features.ipynb), fundamentals of corner features as discussed in the lecture <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/image-features.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   * [`finding-blobs.ipynb`](finding-blobs.ipynb), extension to blob finding and blob parameters <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/finding-blobs.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  * [`image-features.ipynb`](image-features.ipynb), fundamentals of corner features as discussed in the lecture <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/image-features.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   * [`fiducials.ipynb`](fiducials.ipynb), extension to finding ArUco markers (QR-like codes) in an image <a href="https://colab.research.google.com/github/rvss-australia/RVSS/blob/main/Robotic_Vision/fiducials.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
