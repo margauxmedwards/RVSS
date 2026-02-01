@@ -89,24 +89,26 @@ pip install ipympl  # enables matplotlib interactive features in Jupyter noteboo
 
 You can run Jupyter notebooks a few different ways as discussed below.
 
-### Jupyter from inside Visual Studio
+### From Visual Studio
 
 This is a very convenient way to work and highly recommended. Use the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter).  You need to do the local software installs as mentioned above.
 
-### Install the Jupyter app
+### From the command line
 ```
 pip install jupyter
 ```
-then run Jupyter
+then run Jupyter from the shell
 ```
 jupyter notebook
 ```
-which will open a new browser tab with the Jupyter GUI.  The UI is a bit clunky, but it works.  The Visual Studio version, above, is much more slick.  These notebooks have not been tested with JupyterLab.
+which will open a new browser tab with the Jupyter GUI.  Browse to the notebook folder (or better yet, run `jupyter` from that folder), and open a notebook.
+
+The UI is a bit clunky, but it works.  The Visual Studio version, above, is much more slick.  These notebooks have not been tested with JupyterLab.
 
 
-### Google Colab
+### On Google Colab (zero install cloud option)
 
-This is theoretically a convenient approach with zero install on your computer, but unforutunately each notebook is quite slow to startup because the toolboxes need to be installed into the Colab environment each time you start and they are only cached there for a short amount of time.
+This is theoretically a convenient approach with zero install on your computer, but unforutunately each notebook is quite slow to startup because the toolboxes need to be installed into the Colab environment each time you start -- they are only cached there for a short period of time.
 
 Just click the <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> buttons below.
 Colab will pull the notebook from GitHub, and allow you to interact with it in a browser tab. If you modify the notebook you have the option of saving it in your own GitHub account, or on Google Drive.  
