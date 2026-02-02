@@ -18,6 +18,9 @@ You can run the notebooks via Colab: http://colab.research.google.com/github/rvs
 Links to slide decks and information about the lectures will appear below.
 
 ---
+## Throughout the week: Math Moments, Feras Dayoub
+[Slides](https://www.dropbox.com/scl/fo/xgb2sujrcnaprywab81fr/AISiMMeCujuzOnWyJVU5H9M?rlkey=4s7bim827wygj9p0u0ur299up&e=1&st=p7gos4sj&dl=0)
+
 ## Sunday / Monday
 
 I have set pre-reading and pre-watching resources if you're keen.  Follow the links below.
