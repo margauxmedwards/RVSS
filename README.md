@@ -37,7 +37,7 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ### Deep Learning, Simon Lucey
 ### World Models, Tom Drummond
 ### Transformers, Simon Lucey
-### Deep Dive: Planetary Rover Autonomous Navigation, Thierry Peynot
+### Deep Dive: [Planetary Rover Autonomous Navigation](PlanetaryRovers/RVSS2026-DeepDive-PlanetaryRovers_c.pdf), Thierry Peynot
 
 ---
 ## Wednesday
