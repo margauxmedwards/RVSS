@@ -36,7 +36,7 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ## Tuesday
 
 ### [Deep Learning](Visual_Learning/RVSS2026-IntroDL.pdf), Simon Lucey
-### [World Models](Spatial_Awareness/Slides/RVSS-2026-WorldModels.pdf), Tom Drummond
+### [World Models *updated](Spatial_Awareness/Slides/RVSS-2026-WorldModels.pdf), Tom Drummond
 ### [Transformers](Visual_Learning/RVSS2026-Tokens_and_Transformers.pdf), Simon Lucey
 ### Deep Dive: [Planetary Rover Autonomous Navigation](PlanetaryRovers/RVSS2026-DeepDive-PlanetaryRovers_c.pdf), Thierry Peynot
 
