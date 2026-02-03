@@ -21,6 +21,7 @@ Links to slide decks and information about the lectures will appear below.
 ## Throughout the week: Math Moments, Feras Dayoub
 [Slides](https://www.dropbox.com/scl/fo/xgb2sujrcnaprywab81fr/AISiMMeCujuzOnWyJVU5H9M?rlkey=4s7bim827wygj9p0u0ur299up&e=1&st=p7gos4sj&dl=0)
 
+---
 ## Sunday / Monday
 
 I have set pre-reading and pre-watching resources if you're keen.  Follow the links below.
@@ -29,15 +30,15 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ### [Image Formation](Robotic_Vision/README.md), Peter Corke
 ### [Image Processing](Robotic_Vision/README.md), Peter Corke
 ### [Feature Extraction](Robotic_Vision/README.md), Peter Corke
-### Deep Dive: From Lab to Launch: How (and Why) to Start an AI & Robotics Company in Australia, Sue Keay
+### Deep Dive: [From Lab to Launch: How (and Why) to Start an AI & Robotics Company in Australia](Startups/RVSS_Robotics(and_AI)Start-ups-SueKeay_Feb2026.pdf), Sue Keay
 
 ---
 ## Tuesday
 
-### Deep Learning, Simon Lucey
-### World Models, Tom Drummond
-### Transformers, Simon Lucey
-### Deep Dive: Planetary Rover Autonomous Navigation, Thierry Peynot
+### [Deep Learning](Visual_Learning/RVSS2026-IntroDL.pdf), Simon Lucey
+### [World Models *updated](Spatial_Awareness/Slides/RVSS-2026-WorldModels.pdf), Tom Drummond
+### [Transformers](Visual_Learning/RVSS2026-Tokens_and_Transformers.pdf), Simon Lucey
+### Deep Dive: [Planetary Rover Autonomous Navigation](PlanetaryRovers/RVSS2026-DeepDive-PlanetaryRovers_c.pdf), Thierry Peynot
 
 ---
 ## Wednesday
