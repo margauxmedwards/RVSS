@@ -54,6 +54,6 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ### Classical SLAM, Tom Drummond
 ### Multi-Task Learning, Dana Kulic
 ### Learning-Based SLAM, Tom Drummond
-### Deep Dive: Calibration and Pose, Richard Hartley
+### Deep Dive: Calibration and Pose, preview paper [here](CalibrationConic/Arxiv-preview.pdf), Richard Hartley
 
 ---
