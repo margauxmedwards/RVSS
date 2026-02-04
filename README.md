@@ -43,9 +43,9 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ---
 ## Wednesday
 
-### [Policy Learning](Reinforcement_Learning/Intro to Policy Learning.pdf), Dana Kulic
+### [Policy Learning](Reinforcement_Learning/Intro%20to%20Policy%20Learning.pdf), Dana Kulic
 ### [Foundation Models](Visual_Learning/RVSS2026-Foundation_Models.pdf), Simon Lucey
-### [Imitation Learning](Reinforcement_Learning/Imitation Learning.pdf), Dana Kulic
+### [Imitation Learning](Reinforcement_Learning/Imitation%20Learning.pdf), Dana Kulic
 ### Deep Dive: [Underwater Robotic Vision for Ecosystem Monitoring and Reef Restoration](UnderwaterVision/ScarlettRaine-Slides-PDF.pdf), Scarlett Raine
 
 ---
