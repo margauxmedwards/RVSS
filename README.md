@@ -36,7 +36,7 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ## Tuesday
 
 ### [Deep Learning](Visual_Learning/RVSS2026-IntroDL.pdf), Simon Lucey
-### [World Models *updated](Spatial_Awareness/Slides/RVSS-2026-WorldModels.pdf), Tom Drummond
+### [World Models *updated](Spatial_Awareness/Slides/RVSS-2026-All.pdf), Tom Drummond
 ### [Transformers](Visual_Learning/RVSS2026-Tokens_and_Transformers.pdf), Simon Lucey
 ### Deep Dive: [Planetary Rover Autonomous Navigation](PlanetaryRovers/RVSS2026-DeepDive-PlanetaryRovers_c.pdf), Thierry Peynot
 
@@ -51,9 +51,9 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ---
 ## Thursday
 
-### Classical SLAM, Tom Drummond
+### [Classical SLAM](Spatial_Awareness/Slides/RVSS-2026-All.pdf), Tom Drummond
 ### Multi-Task Learning, Dana Kulic
-### Learning-Based SLAM, Tom Drummond
+### [Learning-Based SLAM](Spatial_Awareness/Slides/RVSS-2026-All.pdf), Tom Drummond
 ### Deep Dive: Calibration and Pose, preview paper [here](CalibrationConic/Arxiv-preview.pdf), Richard Hartley
 
 ---
