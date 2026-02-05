@@ -36,24 +36,24 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ## Tuesday
 
 ### [Deep Learning](Visual_Learning/RVSS2026-IntroDL.pdf), Simon Lucey
-### [World Models *updated](Spatial_Awareness/Slides/RVSS-2026-WorldModels.pdf), Tom Drummond
+### [World Models *updated](Spatial_Awareness/Slides/RVSS-2026-All.pdf), Tom Drummond
 ### [Transformers](Visual_Learning/RVSS2026-Tokens_and_Transformers.pdf), Simon Lucey
 ### Deep Dive: [Planetary Rover Autonomous Navigation](PlanetaryRovers/RVSS2026-DeepDive-PlanetaryRovers_c.pdf), Thierry Peynot
 
 ---
 ## Wednesday
 
-### Policy Learning, Dana Kulic
-### Foundation Models, Simon Lucey
-### Imitation Learning, Dana Kulic
+### [Policy Learning](Reinforcement_Learning/Intro%20to%20Policy%20Learning.pdf), Dana Kulic
+### [Foundation Models](Visual_Learning/RVSS2026-Foundation_Models.pdf), Simon Lucey
+### [Imitation Learning](Reinforcement_Learning/Imitation%20Learning.pdf), Dana Kulic
 ### Deep Dive: [Underwater Robotic Vision for Ecosystem Monitoring and Reef Restoration](UnderwaterVision/ScarlettRaine-Slides-PDF.pdf), Scarlett Raine
 
 ---
 ## Thursday
 
-### Classical SLAM, Tom Drummond
-### Multi-Task Learning, Dana Kulic
-### Learning-Based SLAM, Tom Drummond
+### [Classical SLAM](Spatial_Awareness/Slides/RVSS-2026-All.pdf), Tom Drummond
+### [Multi-Task Learning](Reinforcement_Learning/Multi-TaskLearning.pdf), Dana Kulic
+### [Learning-Based SLAM](Spatial_Awareness/Slides/RVSS-2026-All.pdf), Tom Drummond
 ### Deep Dive: Calibration and Pose, preview paper [here](CalibrationConic/Arxiv-preview.pdf), Richard Hartley
 
 ---
