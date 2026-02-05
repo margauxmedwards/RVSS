@@ -52,7 +52,7 @@ I have set pre-reading and pre-watching resources if you're keen.  Follow the li
 ## Thursday
 
 ### [Classical SLAM](Spatial_Awareness/Slides/RVSS-2026-All.pdf), Tom Drummond
-### Multi-Task Learning, Dana Kulic
+### [Multi-Task Learning](Reinforcement_Learning/Multi-TaskLearning.pdf), Dana Kulic
 ### [Learning-Based SLAM](Spatial_Awareness/Slides/RVSS-2026-All.pdf), Tom Drummond
 ### Deep Dive: Calibration and Pose, preview paper [here](CalibrationConic/Arxiv-preview.pdf), Richard Hartley
 
